@@ -1,3 +1,3 @@
 # theplace
 
-<p> Hello! Gis is awesome! </p>
+<p> Hello! Git is awesome! </p>
